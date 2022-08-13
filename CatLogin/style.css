@@ -1,0 +1,23 @@
+body{
+    background-color: #ffede1;
+    padding-left: 10% ;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 20%;
+}
+.leftpart{
+float:left;
+background-color: white;
+width: 50%;
+height: 500px;
+text-align: center;
+box-shadow: 15px 40px 50px 0 rgba(254,154,99,255);
+}
+
+.rightpart{
+float:right;
+width:50%;
+height: 500px;
+background-color: #ffede1;
+box-shadow: 15px 40px 50px 0 rgba(254,154,99,255);
+}
